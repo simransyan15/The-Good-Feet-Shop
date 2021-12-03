@@ -1,0 +1,14 @@
+{
+  "name": "thegoodfeetshop",
+  "version": "1.0.0",
+  "description": "an online shoe store with automated services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaspreet kaur, simranpreet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
